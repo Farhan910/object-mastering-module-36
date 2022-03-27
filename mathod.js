@@ -19,4 +19,5 @@ const student = {
 
 student.takeExam()
 const remaining= student.treat(400)
-console.log(remaining);
+console.log(remaining); 
+
